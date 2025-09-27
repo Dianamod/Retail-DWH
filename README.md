@@ -1,4 +1,7 @@
 # Retail-DWH
+This project is built on open-source data (Kaggle).
+It demonstrates standard data warehouse modeling and ETL practices.
+
 Sales Shop Data Warehouse Project
 
 📌 Project Overview
